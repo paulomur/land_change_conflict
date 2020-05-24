@@ -14,7 +14,7 @@ This process is very practical to be applied everywhere and more specifically in
 
 ## Results
 
-![](D:\PhD\CH2\github\land_use_conflict_peace\img\fig1.PNG)
+![](img/fig1.PNG)
 
 
 
@@ -22,7 +22,7 @@ This figure represent the conversion between different classes. Forest to pastur
 
 
 
-![](D:\PhD\CH2\github\land_use_conflict_peace\img\fig2.PNG)
+![](img/fig2.PNG)
 
 
 
@@ -44,7 +44,7 @@ Columns represent processes and rows years. a) Tinigua protected area, forest cl
 
    
 
-   ![](D:\PhD\CH2\github\land_use_conflict_peace\img\goodbad.PNG)
+   ![](img/goodbad.PNG)
 
    
 
@@ -54,7 +54,7 @@ Columns represent processes and rows years. a) Tinigua protected area, forest cl
 
 ​		Using that code, users can change your baseline index, the list of predictors and the time window of interest i.e. January- 		   		March.   Example of fitted composite for 1990 in our study region:
 
-![](D:\PhD\CH2\github\land_use_conflict_peace\img\visualization.PNG)
+![](img/visualization.PNG)
 
 
 
