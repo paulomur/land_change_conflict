@@ -20,13 +20,13 @@ The process is very practical to be applied everywhere and more specifically in 
 
 We found a gradual increase of forest to pasture conversion.
 
-![](img\fig1.PNG)
+![](img/fig1.PNG)
 
 
 
 We also found quick changes since the beginning of the negotiation process with FARC.
 
-![](img\fig2.PNG)
+![](img/fig2.PNG)
 
 
 
