@@ -1,4 +1,4 @@
-## **Historical land use dynamics during conflict and onset of peace in the Colombian Andes-Amazon region**
+## **Historical land cover dynamics during conflict and post-conflict in the Colombian Andes-Amazon region**
 
 Paulo J. Murillo-Sandoval, Emma Gjerdseth, Robert Kennedy, David Wrathall, and Jamon Van Den Hoek, Camilo Correa-Ayram, and Liliana M. Davalos.
 
@@ -6,23 +6,23 @@ Paulo J. Murillo-Sandoval, Emma Gjerdseth, Robert Kennedy, David Wrathall, and J
 
 ## Motivation
 
-The practical use of remote sensing data for making historical land-use maps using well-known change detection algorithms remains poorly applied in tropical countries. Furthermore, National agencies take between 2-3 years to produce land-use maps leading to slow environmental decision-making policies. This is critical when new agrarian policies are implemented for instance after the cessation of armed conflict. Here, we used a set of Landsat predictors which were linearly fitted using LandTrendr to create maps for six classes:
+The practical use of remote sensing data for making historical land cover maps using well-known change detection algorithms remains poorly applied in tropical countries. Furthermore, National agencies take between 2-3 years to produce land-use maps leading to slow environmental decision-making policies. This is critical when new agrarian policies are implemented for instance after the cessation of armed conflict. Here, we used a set of Landsat predictors which were linearly fitted using LandTrendr to create maps for six classes:
 
 **Urban, Pasture, Forest, Grasslands, Secondary Forest and Water.**
 
-This process is very practical to be applied everywhere and more specifically in forested places in which political conditions might exacerbate land-use quick conversions.
+This process is very practical to be applied everywhere and more specifically in forested places in which political conditions might exacerbate land cover quick conversions.
 
 ## Results
 
-![](img/fig1.PNG)
+![](D:\PhD\CH2\github\land_use_conflict_peace\img\fig1.PNG)
 
 
 
-This figure represent the conversion between different classes. Forest to pasture conversion is moving towards deeper Amazon basin and within protected areas. Conflict points comes from [UCDP](https://ucdp.uu.se) and these point have the higher level of spatial accuracy.
+This figure represent the conversion between different classes. Forest to pasture conversion is moving towards deeper Amazon basin and within protected areas. Conflict points comes from [UCDP](https://ucdp.uu.se) and these points have the higher level of spatial accuracy . A total of181 conflict events were used in this analysis.
 
 
 
-![](img/fig2.PNG)
+![](D:\PhD\CH2\github\land_use_conflict_peace\img\fig2.PNG)
 
 
 
@@ -44,7 +44,7 @@ Columns represent processes and rows years. a) Tinigua protected area, forest cl
 
    
 
-   ![](img/goodbad.PNG)
+   ![](D:\PhD\CH2\github\land_use_conflict_peace\img\goodbad.PNG)
 
    
 
@@ -54,8 +54,8 @@ Columns represent processes and rows years. a) Tinigua protected area, forest cl
 
 ​		Using that code, users can change your baseline index, the list of predictors and the time window of interest i.e. January- 		   		March.   Example of fitted composite for 1990 in our study region:
 
-![](img/visualization.PNG)
+![](D:\PhD\CH2\github\land_use_conflict_peace\img\visualization.PNG)
 
 
 
-2. Using the asset created in step 1 and a basemap in 2002 we train a model for six classes. We sampled points in our classes based on the based map and using the spectral+topographic indicators we classify each year. We also used another years to improve training. The code exports annual land-use maps for each year: https://code.earthengine.google.com/7a502e411ef2a35e01eec80d6e554c5f
+2. Using the asset created in step 1 and a basemap in 2002 we train a model for six classes. We sampled points in our classes based on the based map and using the spectral+topographic indicators we classify each year. We also used another years to improve training. The code exports annual land cover maps for each year: https://code.earthengine.google.com/7a502e411ef2a35e01eec80d6e554c5f
