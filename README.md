@@ -26,7 +26,7 @@ This process is very practical to be applied everywhere and more specifically in
 
 ## Results
 
-![](img\fig_1.PNG)
+![](img/fig1.png)
 
 
 
