@@ -14,7 +14,7 @@ This process is very practical to be applied everywhere and more specifically in
 
 ## Results
 
-![](D:\PhD\CH2\github\land_use_conflict_peace\img\fig1.PNG)
+![](img/fig1.PNG)
 
 
 
