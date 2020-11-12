@@ -34,7 +34,7 @@ This process is very practical to be applied everywhere and more specifically in
 
 
 
-![](img\fig2.PNG)
+![](img/fig2.png)
 
 
 
@@ -54,7 +54,7 @@ We initially removed bad Landsat images using a visual inspection using this cod
 
 
 
-![](img\goodbad.PNG)
+![](img/goodbad.PNG)
 
 
 
@@ -64,7 +64,7 @@ After visual inspection, we removed clouds and shadows using fmask, harmonizatio
 
 Using that code, users can change your baseline index, the list of predictors and the time window of interest i.e. January- 		March.   Example of fitted composite for 1990 in our study region:
 
-![](img\visualization.PNG)
+![](img/visualization.PNG)
 
 
 
