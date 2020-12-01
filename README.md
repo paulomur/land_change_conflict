@@ -58,7 +58,7 @@ We initially removed bad Landsat images using a visual inspection using this cod
 
 
 
-After visual inspection, we removed clouds and shadows using fmask, harmonization of Landsat sensors, applied a physical topographic correction, and eliminated Landsat data in an negative buffer of 2Km to avoid problems in the borders. We created annual composites using medoid method using all image within the year. Finally we applied LandTrendr to get fitted values across time, all the code that makes this process is here: https://code.earthengine.google.com/b7da998b6fdb135cd09374403dafbb46
+After visual inspection, we removed clouds and shadows using fmask, harmonization of Landsat sensors, applied a physical topographic correction, and eliminated Landsat data in an negative buffer of 2Km to avoid problems in the borders. We created annual composites using medoid method using all image within the year. Finally we applied LandTrendr to get fitted values across time, all the code that makes this process is here:https://code.earthengine.google.com/1c8432f9b4d700a1deaac4706a978b4a?noload=true
 
 
 
