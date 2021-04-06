@@ -1,6 +1,5 @@
 ## **Historical land cover dynamics during conflict and post-conflict in the Colombian Andes-Amazon region**
 
-Paulo J. Murillo-Sandoval, Emma Gjerdseth, Robert Kennedy, David Wrathall, and Jamon Van Den Hoek, Camilo Correa-Ayram, and Liliana M. Davalos.
 
 
 
